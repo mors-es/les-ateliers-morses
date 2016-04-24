@@ -258,6 +258,11 @@ a:focus {
     }
 }
 
+.form-control {
+  height: 46px;
+  border-radius: 0px
+}
+
 .content-section {
     padding-top: 100px;
 }
@@ -339,6 +344,17 @@ ul.banner-social-buttons {
     ul.banner-social-buttons li:last-child {
         margin-bottom: 0;
     }
+}
+
+.modal-header {
+  color: black;
+}
+.modal-body {
+  color: black;
+}
+
+.modal-content {
+  border-radius: 0px;
 }
 
 footer {
